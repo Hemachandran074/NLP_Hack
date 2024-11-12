@@ -1,13 +1,9 @@
+gensim
 ipykernel
 pandas
 numpy
 scikit-learn
 nltk
-<<<<<<< HEAD
-tensorflow
-=======
 tensorflow
 transformers
 torch
-gensim
->>>>>>> 447a0ee (streamlit app added)
